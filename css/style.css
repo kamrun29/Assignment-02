@@ -1,0 +1,64 @@
+.Si{
+    color: lightseagreen;
+    background-color: maroon;
+    text-align: center;
+}
+.Name{
+    color: lightseagreen;
+    background-color: maroon;
+    text-align: center;
+}
+.Description{
+    color: lightseagreen;
+    background-color: maroon;
+    text-align: center;
+}
+.Example{
+    color: lightseagreen;
+    background-color: maroon;
+    text-align: center;
+}
+
+
+
+.si{
+ color: black;
+    background-color: chartreuse;
+    text-align: center;
+}
+.name{
+    color: black;
+    background-color: chartreuse; 
+    text-align: center;  
+}
+.description{
+    color: black;
+    background-color: chartreuse;
+    text-align: center;  
+}
+.example{
+    color: black;
+    background-color: chartreuse;
+    text-align: center;  
+}
+
+.hi{
+   color: antiquewhite;
+   background-color: darkmagenta;
+   text-align: center;
+}
+.hlw{
+    color: antiquewhite;
+    background-color: darkmagenta;
+    text-align: center;
+}
+.hola{
+    color: antiquewhite;
+    background-color: darkmagenta;
+    text-align: center;   
+}
+.hello{
+    color: antiquewhite;
+    background-color: darkmagenta; 
+    text-align: center; 
+}
